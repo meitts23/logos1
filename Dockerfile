@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="29f8cfde-86be-4b56-9cc1-fd17446e252a"
+ARG AUUID="42d7b378-ed03-4914-ad2f-563e33be4e27"
 ARG CADDYIndexPage="https://github.com/wulabing/3DCEList/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
